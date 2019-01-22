@@ -79,3 +79,44 @@ h1 {
   font-size: 60px;
   font-family: Philophobia, 'Comic Sans MS', cursive;
 }
+
+.nev {
+  text-decoration: none;
+  color: black;
+    transition: 0.4s;
+}
+.nev:hover {
+  color: red;
+  transition: 0.4s;
+}
+.vide {
+  margin-top: 20px;
+  width: 99%;
+  height: 50%;
+  margin-bottom: 30px;
+}
+.ssilka {
+  margin-bottom: 15px;
+  background-color: #bff;
+  padding-left: 20px;
+  border-left: solid purple 5px;
+}
+.v_men {
+  margin-bottom: 15px;
+  font-size: 25px;
+  display: block;
+  background-color: #008080;
+  text-align: center;
+  width: 300px;
+  text-decoration: none;
+  color: black;
+  transition: 0.2s;
+}
+.v_men:hover {
+  background-color: red;
+  transition: 0.2s;
+}
+.kritika {
+  color: red;
+  border-bottom: solid #008080 2px;
+}
